@@ -1,2 +1,3 @@
 # Hello-World
-GitHub Training
+This is Training.  
+I am at Vanderbilt University
